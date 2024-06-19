@@ -1,0 +1,24 @@
+Cliente: 11.111.111-1
+Nombre: Valeria
+Apellido: Rojas
+Años como Cliente: 1
+Estado: ACTIVO
+-------------------------------------
+Cliente: 22.222.222-2
+Nombre: Nicolás
+Apellido: Palacios
+Años como Cliente: 4
+Estado: ACTIVO
+-------------------------------------
+Cliente: 33.333.333-3
+Nombre: Rosita
+Apellido: Gómez
+Años como Cliente: 9
+Estado: INACTIVO
+-------------------------------------
+Cliente: 44.444.444-4
+Nombre: Francisca 
+Apellido: Pérez
+Años como Cliente: 5
+Estado: ACTIVO
+-------------------------------------
